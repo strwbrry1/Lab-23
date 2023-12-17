@@ -1,0 +1,7 @@
+int help(){ 0
+    func(a); 1
+} 0
+int main(){ 0
+    printf("hello world!"); 1
+} 0
+dj 0
